@@ -4,6 +4,7 @@ const Footer = () => {
     return (
         <div>
             <h2>This is Footer</h2>
+            <h2>this is last footer</h2>
         </div>
     );
 };
